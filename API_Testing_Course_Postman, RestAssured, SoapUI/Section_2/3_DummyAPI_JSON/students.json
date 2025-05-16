@@ -1,0 +1,105 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "US",
+      "phone": "98876543213",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "ce03",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "3897",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "f0f3",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "bc19",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "name": "Scott",
+      "location": "Germany",
+      "phone": "654321",
+      "courses": [
+        "C#",
+        "C++"
+      ],
+      "id": "dcf5"
+    },
+    {
+      "id": "1806",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "550b",
+      "name": "Juliana",
+      "location": "Colombia",
+      "phone": "123456",
+      "courses": [
+        "Java",
+        "SQL",
+        "Selenium"
+      ]
+    }
+  ]
+}
